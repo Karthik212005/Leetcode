@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Karthik212005/Leetcode/tree/master/0015-3sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Karthik212005/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Karthik212005/Leetcode/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Karthik212005/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Karthik212005/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
